@@ -7,4 +7,5 @@ public final class EndPointURI {
     public static final String getCityandCountryList = "getCityandCountryList";
     public static final String getAvailableHotelsBYCity = "getAvailableHotelsBYCity";
     public static final String getHotelDetailsBYCity = "getHotelDetailsBYCity";
+    public static final String getRateBasisIds = "rateBasisService";
 }
